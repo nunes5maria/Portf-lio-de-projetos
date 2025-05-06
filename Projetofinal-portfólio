@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+<body>
+    <img src="img/avatar-perfil.png" alt="avatar da Maria Eduarda" srcset="">
+    <p>Olá, me chamo Maria Eduarda</p>
+    <h1>Eu tiro fotos da natureza</h1>
+    <p>Não sou fotógrafa profissional, poŕem estou aqui para ensinar a vocês como tirar excelentes fotos utilizando apenas a câmera do seu celular, sem nenhum efeito de photoshop.</p>
+    <p>Minhas habilidades</p>
+    <div>
+            <p>Registrar momentos</p>
+            <p>Registrar paisagens</p>
+            <p>Editar com opções de edição do celular</p>
+    </div>
+</body>
+</html>
